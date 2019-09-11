@@ -1,0 +1,12 @@
+本文件为WHMCS 7.x简体中文汉化包。
+
+使用方法：
+
+1.解压压缩包内所有的文件夹并覆盖至WHMCS程序根目录，即可完成语言包导入
+
+2.进入WHMCS后台，依次点击"setup->Localisation->"Default Language选项选择为chinses.php 完成前台汉化
+
+3.进入WHMCS后台，依次点击"My Account->Language->"Language选项选择为chinses.php 完成后台汉化
+
+更多免费资源敬请关注贱鱼博客www.vpscp.cn
+贱鱼QQ：874949714
